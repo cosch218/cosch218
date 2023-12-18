@@ -17,9 +17,9 @@
 
 
 |type|project|websit|repository|
-|:--:|:-----------:|-----|:-----:|
+|:--:|:-------------:|-----|:-----:|
 |개인|포트폴리오|개발중|[Click Here](https://github.com/cosch218/2023_Portfolio)|
-|팀|　　MONIVATION　　|https://project-team-monivation.github.io/2023_MONIVATION/ 　　|　[Click Here](https://github.com/project-team-MONIVATION/2023_MONIVATION)　|
+|팀|MONIVATION|https://project-team-monivation.github.io/2023_MONIVATION/|[Click Here](https://github.com/project-team-MONIVATION/2023_MONIVATION)|
 |개인|COOKING|https://cosch218.github.io/2023-project-cooking|[Click Here](https://github.com/cosch218/2023-project-cooking)|
 |토이|계산기|https://cosch218.github.io/2023_typescript_calculator/|[Click Here](https://github.com/cosch218/2023_typescript_calculator)|
 |토이|투두리스트|https://cosch218.github.io/2023_redux_toolkit_todolist/|[Click Here](https://github.com/cosch218/2023_redux_toolkit_todolist)|
