@@ -16,7 +16,7 @@
 
 
 
-|type|project|websit|repository|
+|type|project|website|repository|
 |:--:|:-------------:|-----|:-----:|
 |개인|포트폴리오|https://cosch218.github.io/Portfolio-2023/|[Click Here](https://github.com/cosch218/2023_Portfolio)|
 |팀|MONIVATION|https://project-team-monivation.github.io/2023_MONIVATION/|[Click Here](https://github.com/project-team-MONIVATION/2023_MONIVATION)|
